@@ -1,1 +1,1 @@
-This is the golang version of nivis
+This is the golang version of iamai

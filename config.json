@@ -1,0 +1,12 @@
+{
+  "bot": {
+    "plugins": [],
+    "plugin_dirs": ["plugins"],
+    "adapters": [""]
+  },
+  "log": {
+    "level": "ERROR",
+    "verbose_exception": true
+  }
+}
+

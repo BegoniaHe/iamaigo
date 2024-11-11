@@ -4,8 +4,6 @@ This is the golang version of iamai
 
 Here is the original `README` file from `iamai`.
 
-|discord| |qgroup| |py_v| |ruff| |docs_status|
-
 Comprehensive AI Toolkit for Multimodal Learning and Cross-Platform Robotics |Structure|
 ========================================================================================
 
